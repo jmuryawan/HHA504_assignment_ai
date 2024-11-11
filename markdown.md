@@ -8,3 +8,5 @@
 ### **Azure**
 The first challenge was navigating through the Azure ML Studio and finding a pre-trained model to utilize. 
 
+### **GCP**
+In contrast, GCP was much more easy to navigate and more straightforward.
